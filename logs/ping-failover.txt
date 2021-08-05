@@ -1,0 +1,326 @@
+Iteration 1: 
+Ping statistics for 8.8.8.8: Packets: Sent = 50, Received = 37, Lost = 13 (26.00% loss)
+Approximate round trip times in milli-seconds:Minimum = 39ms, Maximum = 72ms, Average = 53.95ms
+
+Setup done
+20:08:26.582 -> 
+20:08:26.582 -> scan start
+20:08:28.780 -> scan done
+20:08:28.780 -> 2 network(s) found
+20:08:28.780 -> Vodafone
+20:08:28.780 -> -33
+20:08:28.780 -> dBm :
+20:08:28.780 -> 100
+20:08:28.780 -> 
+20:08:28.780 -> Connecting to Vodafone
+20:08:29.347 -> ...........
+20:08:34.950 -> WiFi connected, your IP address is 
+20:08:34.950 -> 192.168.1.197
+20:08:39.951 -> 
+20:08:39.951 -> waiting for the failover event
+20:08:45.144 -> waiting for the failover event
+20:08:49.964 -> waiting for the failover event
+20:08:54.963 -> waiting for the failover event
+20:08:59.963 -> waiting for the failover event
+20:09:04.952 -> waiting for the failover event
+20:09:09.946 -> waiting for the failover event
+20:09:14.949 -> waiting for the failover event
+20:09:19.952 -> waiting for the failover event
+20:09:19.952 -> Pinging google IP 8.8.8.8Request timed out.
+20:09:21.944 -> Request timed out.
+20:09:22.945 -> Request timed out.
+20:09:23.961 -> Request timed out.
+20:09:24.978 -> 
+20:09:24.978 -> scan start
+20:09:24.978 -> Request timed out.
+20:09:25.950 -> Request timed out.
+20:09:26.944 -> Request timed out.
+20:09:27.144 -> scan done
+20:09:27.144 -> 1 network(s) found
+20:09:27.144 -> Airtel-Hotspot-07E0
+20:09:27.144 -> -36
+20:09:27.144 -> dBm :
+20:09:27.144 -> 100
+20:09:27.144 -> 	Not matching Vodafone
+20:09:27.144 -> 
+20:09:27.144 -> Connecting to Airtel-Hotspot-07E0
+20:09:27.701 -> .Request timed out.
+20:09:28.211 -> ..Request timed out.
+20:09:29.194 -> .Request timed out.
+20:09:30.301 -> ..Request timed out.
+20:09:31.334 -> ..Request timed out.
+20:09:32.300 -> ..
+20:09:32.822 -> WiFi connected, your IP address is 
+20:09:32.822 -> 192.168.1.101
+20:09:33.327 -> Request timed out.
+20:09:33.394 -> Reply from 8.8.8.8: bytes=32 time=64ms TTL=115
+20:09:34.346 -> Reply from 8.8.8.8: bytes=32 time=45ms TTL=115
+20:09:35.361 -> Reply from 8.8.8.8: bytes=32 time=44ms TTL=115
+20:09:36.377 -> Reply from 8.8.8.8: bytes=32 time=44ms TTL=115
+20:09:37.352 -> Reply from 8.8.8.8: bytes=32 time=46ms TTL=115
+20:09:37.804 -> 
+20:09:37.804 -> waiting for the failover eventReply from 8.8.8.8: bytes=32 time=44ms TTL=115
+20:09:39.378 -> Reply from 8.8.8.8: bytes=32 time=42ms TTL=115
+20:09:40.361 -> Reply from 8.8.8.8: bytes=32 time=42ms TTL=115
+20:09:41.377 -> Reply from 8.8.8.8: bytes=32 time=43ms TTL=115
+20:09:42.376 -> Reply from 8.8.8.8: bytes=32 time=42ms TTL=115
+20:09:42.817 -> 
+20:09:42.817 -> waiting for the failover eventReply from 8.8.8.8: bytes=32 time=61ms TTL=115
+20:09:44.399 -> Reply from 8.8.8.8: bytes=32 time=72ms TTL=115
+20:09:45.394 -> Reply from 8.8.8.8: bytes=32 time=60ms TTL=115
+20:09:46.377 -> Reply from 8.8.8.8: bytes=32 time=61ms TTL=115
+20:09:47.376 -> Reply from 8.8.8.8: bytes=32 time=61ms TTL=115
+20:09:47.828 -> 
+20:09:47.828 -> waiting for the failover eventReply from 8.8.8.8: bytes=32 time=60ms TTL=115
+20:09:49.378 -> Reply from 8.8.8.8: bytes=32 time=59ms TTL=115
+20:09:50.376 -> Reply from 8.8.8.8: bytes=32 time=39ms TTL=115
+20:09:51.360 -> Reply from 8.8.8.8: bytes=32 time=51ms TTL=115
+20:09:52.377 -> Reply from 8.8.8.8: bytes=32 time=68ms TTL=115
+20:09:52.831 -> 
+20:09:52.831 -> waiting for the failover eventReply from 8.8.8.8: bytes=32 time=59ms TTL=115
+20:09:54.377 -> Reply from 8.8.8.8: bytes=32 time=57ms TTL=115
+20:09:55.398 -> Reply from 8.8.8.8: bytes=32 time=57ms TTL=115
+20:09:56.385 -> Reply from 8.8.8.8: bytes=32 time=58ms TTL=115
+20:09:57.368 -> Reply from 8.8.8.8: bytes=32 time=56ms TTL=115
+20:09:57.828 -> 
+20:09:57.828 -> waiting for the failover eventReply from 8.8.8.8: bytes=32 time=67ms TTL=115
+20:09:59.376 -> Reply from 8.8.8.8: bytes=32 time=55ms TTL=115
+20:10:00.376 -> Reply from 8.8.8.8: bytes=32 time=55ms TTL=115
+20:10:01.399 -> Reply from 8.8.8.8: bytes=32 time=55ms TTL=115
+20:10:02.396 -> Reply from 8.8.8.8: bytes=32 time=56ms TTL=115
+20:10:02.820 -> 
+20:10:02.820 -> waiting for the failover eventReply from 8.8.8.8: bytes=32 time=54ms TTL=115
+20:10:04.368 -> Reply from 8.8.8.8: bytes=32 time=54ms TTL=115
+20:10:05.396 -> Reply from 8.8.8.8: bytes=32 time=54ms TTL=115
+20:10:06.368 -> Reply from 8.8.8.8: bytes=32 time=53ms TTL=115
+20:10:07.410 -> Reply from 8.8.8.8: bytes=32 time=53ms TTL=115
+20:10:07.818 -> 
+20:10:07.818 -> waiting for the failover eventReply from 8.8.8.8: bytes=32 time=53ms TTL=115
+20:10:09.375 -> Reply from 8.8.8.8: bytes=32 time=52ms TTL=115
+20:10:10.342 -> Ping statistics for 8.8.8.8:
+20:10:10.342 ->     Packets: Sent = 50, Received = 37, Lost = 13 (26.00% loss),
+20:10:10.342 -> Approximate round trip times in milli-seconds:
+20:10:10.342 ->     Minimum = 39ms, Maximum = 72ms, Average = 53.95ms
+20:10:10.342 -> Destination host data:
+20:10:10.342 ->     IP address: 8.8.8.8
+20:10:12.818 -> 
+20:10:12.818 -> waiting for the failover event
+20:10:17.830 -> waiting for the failover event
+
+Iteration 2:
+
+Ping statistics for 8.8.8.8:  Packets: Sent = 50, Received = 37, Lost = 13 (26.00% loss)
+Approximate round trip times in milli-seconds: Minimum = 42ms, Maximum = 76ms, Average = 52.49ms
+
+Setup done
+20:14:05.798 -> 
+20:14:05.798 -> scan start
+20:14:07.981 -> scan done
+20:14:07.981 -> 2 network(s) found
+20:14:07.981 -> Vodafone
+20:14:07.981 -> -32
+20:14:07.981 -> dBm :
+20:14:07.981 -> 100
+20:14:07.981 -> 
+20:14:07.981 -> Connecting to Vodafone
+20:14:08.532 -> ..........
+20:14:13.647 -> WiFi connected, your IP address is 
+20:14:13.647 -> 192.168.1.197
+20:14:18.647 -> 
+20:14:18.647 -> waiting for the failover event
+20:14:23.647 -> waiting for the failover event
+20:14:28.663 -> waiting for the failover event
+20:14:33.646 -> waiting for the failover event
+20:14:38.646 -> waiting for the failover event
+20:14:43.663 -> waiting for the failover event
+20:14:43.663 -> Pinging google IP 8.8.8.8Request timed out.
+20:14:45.650 -> Request timed out.
+20:14:46.646 -> Request timed out.
+20:14:47.645 -> Request timed out.
+20:14:48.670 -> 
+20:14:48.670 -> scan start
+20:14:48.670 -> Request timed out.
+20:14:49.650 -> Request timed out.
+20:14:50.655 -> Request timed out.
+20:14:50.836 -> scan done
+20:14:50.836 -> 1 network(s) found
+20:14:50.836 -> Airtel-Hotspot-07E0
+20:14:50.836 -> -34
+20:14:50.836 -> dBm :
+20:14:50.836 -> 100
+20:14:50.836 -> 	Not matching Vodafone
+20:14:50.836 -> 
+20:14:50.836 -> Connecting to Airtel-Hotspot-07E0
+20:14:51.412 -> .Request timed out.
+20:14:51.903 -> ..Request timed out.
+20:14:52.904 -> .Request timed out.
+20:14:53.995 -> ..Request timed out.
+20:14:54.995 -> ..Request timed out.
+20:14:56.004 -> ..
+20:14:56.521 -> WiFi connected, your IP address is 
+20:14:56.521 -> 192.168.1.101
+20:14:57.012 -> Request timed out.
+20:14:57.049 -> Reply from 8.8.8.8: bytes=32 time=49ms TTL=115
+20:14:58.066 -> Reply from 8.8.8.8: bytes=32 time=59ms TTL=115
+20:14:59.046 -> Reply from 8.8.8.8: bytes=32 time=50ms TTL=115
+20:15:00.062 -> Reply from 8.8.8.8: bytes=32 time=49ms TTL=115
+20:15:01.046 -> Reply from 8.8.8.8: bytes=32 time=49ms TTL=115
+20:15:01.512 -> 
+20:15:01.512 -> waiting for the failover eventReply from 8.8.8.8: bytes=32 time=48ms TTL=115
+20:15:03.045 -> Reply from 8.8.8.8: bytes=32 time=49ms TTL=115
+20:15:04.066 -> Reply from 8.8.8.8: bytes=32 time=48ms TTL=115
+20:15:05.048 -> Reply from 8.8.8.8: bytes=32 time=47ms TTL=115
+20:15:06.061 -> Reply from 8.8.8.8: bytes=32 time=48ms TTL=115
+20:15:06.512 -> 
+20:15:06.512 -> waiting for the failover eventReply from 8.8.8.8: bytes=32 time=47ms TTL=115
+20:15:08.078 -> Reply from 8.8.8.8: bytes=32 time=47ms TTL=115
+20:15:09.065 -> Reply from 8.8.8.8: bytes=32 time=46ms TTL=115
+20:15:10.061 -> Reply from 8.8.8.8: bytes=32 time=48ms TTL=115
+20:15:11.053 -> Reply from 8.8.8.8: bytes=32 time=45ms TTL=115
+20:15:11.511 -> 
+20:15:11.511 -> waiting for the failover eventReply from 8.8.8.8: bytes=32 time=76ms TTL=115
+20:15:13.045 -> Reply from 8.8.8.8: bytes=32 time=44ms TTL=115
+20:15:14.061 -> Reply from 8.8.8.8: bytes=32 time=55ms TTL=115
+20:15:15.078 -> Reply from 8.8.8.8: bytes=32 time=54ms TTL=115
+20:15:16.069 -> Reply from 8.8.8.8: bytes=32 time=44ms TTL=115
+20:15:16.528 -> 
+20:15:16.528 -> waiting for the failover eventReply from 8.8.8.8: bytes=32 time=53ms TTL=115
+20:15:18.078 -> Reply from 8.8.8.8: bytes=32 time=45ms TTL=115
+20:15:19.069 -> Reply from 8.8.8.8: bytes=32 time=43ms TTL=115
+20:15:20.052 -> Reply from 8.8.8.8: bytes=32 time=42ms TTL=115
+20:15:21.051 -> Reply from 8.8.8.8: bytes=32 time=42ms TTL=115
+20:15:21.515 -> 
+20:15:21.515 -> waiting for the failover eventReply from 8.8.8.8: bytes=32 time=59ms TTL=115
+20:15:23.084 -> Reply from 8.8.8.8: bytes=32 time=62ms TTL=115
+20:15:24.077 -> Reply from 8.8.8.8: bytes=32 time=62ms TTL=115
+20:15:25.077 -> Reply from 8.8.8.8: bytes=32 time=60ms TTL=115
+20:15:26.077 -> Reply from 8.8.8.8: bytes=32 time=60ms TTL=115
+20:15:26.501 -> 
+20:15:26.501 -> waiting for the failover eventReply from 8.8.8.8: bytes=32 time=60ms TTL=115
+20:15:28.069 -> Reply from 8.8.8.8: bytes=32 time=59ms TTL=115
+20:15:29.093 -> Reply from 8.8.8.8: bytes=32 time=59ms TTL=115
+20:15:30.077 -> Reply from 8.8.8.8: bytes=32 time=59ms TTL=115
+20:15:31.079 -> Reply from 8.8.8.8: bytes=32 time=59ms TTL=115
+20:15:31.498 -> 
+20:15:31.498 -> waiting for the failover eventReply from 8.8.8.8: bytes=32 time=58ms TTL=115
+20:15:33.077 -> Reply from 8.8.8.8: bytes=32 time=58ms TTL=115
+20:15:34.027 -> Ping statistics for 8.8.8.8:
+20:15:34.027 ->     Packets: Sent = 50, Received = 37, Lost = 13 (26.00% loss),
+20:15:34.027 -> Approximate round trip times in milli-seconds:
+20:15:34.027 ->     Minimum = 42ms, Maximum = 76ms, Average = 52.49ms
+20:15:34.027 -> Destination host data:
+20:15:34.027 ->     IP address: 8.8.8.8
+20:15:36.510 -> 
+20:15:36.510 -> waiting for the failover event
+20:15:41.527 -> waiting for the failover event
+20:15:46.504 -> waiting for the failover event
+20:15:51.510 -> waiting for the failover event
+
+Iteration 3:
+
+Ping statistics for 8.8.8.8: Packets: Sent = 50, Received = 37, Lost = 13 (26.00% loss)
+Approximate round trip times in milli-seconds:Minimum = 35ms, Maximum = 72ms, Average = 55.08ms
+
+Setup done
+20:17:30.710 -> 
+20:17:30.710 -> scan start
+20:17:32.893 -> scan done
+20:17:32.893 -> 2 network(s) found
+20:17:32.893 -> Vodafone
+20:17:32.893 -> -29
+20:17:32.893 -> dBm :
+20:17:32.893 -> 100
+20:17:32.893 -> 
+20:17:32.893 -> Connecting to Vodafone
+20:17:33.454 -> ..........
+20:17:38.577 -> WiFi connected, your IP address is 
+20:17:38.577 -> 192.168.1.197
+20:17:43.587 -> 
+20:17:43.587 -> waiting for the failover event
+20:17:48.601 -> waiting for the failover event
+20:17:53.570 -> waiting for the failover event
+20:17:58.577 -> waiting for the failover event
+20:18:03.575 -> waiting for the failover event
+20:18:08.586 -> waiting for the failover event
+20:18:13.586 -> waiting for the failover event
+20:18:13.586 -> Pinging google IP 8.8.8.8Request timed out.
+20:18:15.562 -> Request timed out.
+20:18:16.586 -> Request timed out.
+20:18:17.570 -> Request timed out.
+20:18:18.585 -> 
+20:18:18.585 -> scan start
+20:18:18.585 -> Request timed out.
+20:18:19.569 -> Request timed out.
+20:18:20.585 -> Request timed out.
+20:18:20.769 -> scan done
+20:18:20.769 -> 1 network(s) found
+20:18:20.769 -> Airtel-Hotspot-07E0
+20:18:20.769 -> -35
+20:18:20.769 -> dBm :
+20:18:20.769 -> 100
+20:18:20.769 -> 	Not matching Vodafone
+20:18:20.769 -> 
+20:18:20.769 -> Connecting to Airtel-Hotspot-07E0
+20:18:21.309 -> .Request timed out.
+20:18:21.808 -> ..Request timed out.
+20:18:22.808 -> .Request timed out.
+20:18:23.941 -> ..Request timed out.
+20:18:24.924 -> ..Request timed out.
+20:18:25.952 -> ..
+20:18:26.452 -> WiFi connected, your IP address is 
+20:18:26.452 -> 192.168.1.101
+20:18:26.942 -> Request timed out.
+20:18:27.018 -> Reply from 8.8.8.8: bytes=32 time=68ms TTL=115
+20:18:27.985 -> Reply from 8.8.8.8: bytes=32 time=41ms TTL=115
+20:18:28.986 -> Reply from 8.8.8.8: bytes=32 time=41ms TTL=115
+20:18:30.018 -> Reply from 8.8.8.8: bytes=32 time=66ms TTL=115
+20:18:31.011 -> Reply from 8.8.8.8: bytes=32 time=68ms TTL=115
+20:18:31.435 -> 
+20:18:31.435 -> waiting for the failover eventReply from 8.8.8.8: bytes=32 time=72ms TTL=115
+20:18:32.989 -> Reply from 8.8.8.8: bytes=32 time=62ms TTL=115
+20:18:33.986 -> Reply from 8.8.8.8: bytes=32 time=60ms TTL=115
+20:18:34.985 -> Reply from 8.8.8.8: bytes=32 time=59ms TTL=115
+20:18:36.007 -> Reply from 8.8.8.8: bytes=32 time=59ms TTL=115
+20:18:36.451 -> 
+20:18:36.451 -> waiting for the failover eventReply from 8.8.8.8: bytes=32 time=60ms TTL=115
+20:18:37.992 -> Reply from 8.8.8.8: bytes=32 time=59ms TTL=115
+20:18:39.002 -> Reply from 8.8.8.8: bytes=32 time=58ms TTL=115
+20:18:39.984 -> Reply from 8.8.8.8: bytes=32 time=58ms TTL=115
+20:18:40.992 -> Reply from 8.8.8.8: bytes=32 time=58ms TTL=115
+20:18:41.427 -> 
+20:18:41.427 -> waiting for the failover eventReply from 8.8.8.8: bytes=32 time=38ms TTL=115
+20:18:43.001 -> Reply from 8.8.8.8: bytes=32 time=58ms TTL=115
+20:18:43.988 -> Reply from 8.8.8.8: bytes=32 time=56ms TTL=115
+20:18:44.985 -> Reply from 8.8.8.8: bytes=32 time=53ms TTL=115
+20:18:46.002 -> Reply from 8.8.8.8: bytes=32 time=57ms TTL=115
+20:18:46.434 -> 
+20:18:46.434 -> waiting for the failover eventReply from 8.8.8.8: bytes=32 time=57ms TTL=115
+20:18:47.984 -> Reply from 8.8.8.8: bytes=32 time=35ms TTL=115
+20:18:49.001 -> Reply from 8.8.8.8: bytes=32 time=60ms TTL=115
+20:18:50.018 -> Reply from 8.8.8.8: bytes=32 time=55ms TTL=115
+20:18:51.001 -> Reply from 8.8.8.8: bytes=32 time=54ms TTL=115
+20:18:51.451 -> 
+20:18:51.451 -> waiting for the failover eventReply from 8.8.8.8: bytes=32 time=54ms TTL=115
+20:18:53.001 -> Reply from 8.8.8.8: bytes=32 time=53ms TTL=115
+20:18:54.001 -> Reply from 8.8.8.8: bytes=32 time=54ms TTL=115
+20:18:55.021 -> Reply from 8.8.8.8: bytes=32 time=53ms TTL=115
+20:18:55.987 -> Reply from 8.8.8.8: bytes=32 time=54ms TTL=115
+20:18:56.447 -> 
+20:18:56.447 -> waiting for the failover eventReply from 8.8.8.8: bytes=32 time=52ms TTL=115
+20:18:57.985 -> Reply from 8.8.8.8: bytes=32 time=52ms TTL=115
+20:18:59.001 -> Reply from 8.8.8.8: bytes=32 time=51ms TTL=115
+20:18:59.984 -> Reply from 8.8.8.8: bytes=32 time=51ms TTL=115
+20:19:01.017 -> Reply from 8.8.8.8: bytes=32 time=51ms TTL=115
+20:19:01.434 -> 
+20:19:01.434 -> waiting for the failover eventReply from 8.8.8.8: bytes=32 time=50ms TTL=115
+20:19:03.007 -> Reply from 8.8.8.8: bytes=32 time=51ms TTL=115
+20:19:03.943 -> Ping statistics for 8.8.8.8:
+20:19:03.943 ->     Packets: Sent = 50, Received = 37, Lost = 13 (26.00% loss),
+20:19:03.943 -> Approximate round trip times in milli-seconds:
+20:19:03.984 ->     Minimum = 35ms, Maximum = 72ms, Average = 55.08ms
+20:19:03.984 -> Destination host data:
+20:19:03.984 ->     IP address: 8.8.8.8
+20:19:06.450 -> 
+20:19:06.450 -> waiting for the failover event
+20:19:11.434 -> waiting for the failover event
+20:19:16.434 -> waiting for the failover event

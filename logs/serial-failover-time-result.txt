@@ -1,0 +1,130 @@
+Iteration 1: [Start time:09:59:22.787 End time: 09:59:30.679]
+  
+7.89 total seconds
+
+09:58:31.628 -> scan done
+09:58:31.628 -> 2 network(s) found
+09:58:31.628 -> Vodafone
+09:58:31.628 -> 
+09:58:31.628 -> Connecting to Vodafone
+09:58:32.172 -> ...........
+09:58:37.797 -> WiFi connected, your IP address is 
+09:58:37.797 -> 192.168.1.197
+09:58:42.814 -> 
+09:58:42.814 -> waiting for the failover event
+09:58:47.823 -> waiting for the failover event
+09:58:52.811 -> waiting for the failover event
+09:58:57.815 -> waiting for the failover event
+09:59:02.787 -> waiting for the failover event
+09:59:07.808 -> waiting for the failover event
+09:59:12.813 -> waiting for the failover event
+09:59:17.788 -> waiting for the failover event
+09:59:22.787 -> waiting for the failover event
+09:59:22.787 -> scan start
+09:59:24.961 -> scan done
+09:59:24.961 -> 1 network(s) found
+09:59:24.961 -> Airtel-Hotspot-07E0
+09:59:24.987 -> 	Not matching Vodafone
+09:59:24.987 -> 
+09:59:24.987 -> Connecting to Airtel-Hotspot-07E0
+09:59:25.577 -> ..........
+09:59:30.679 -> WiFi connected, your IP address is 
+09:59:30.679 -> 192.168.1.103
+09:59:35.675 -> 
+09:59:35.675 -> waiting for the failover event
+09:59:40.652 -> waiting for the failover event
+09:59:45.682 -> waiting for the failover event
+09:59:50.652 -> waiting for the failover event
+
+
+
+Iteration 2:[Start time:10:04:00.753 End time:10:04:08.616]
+7.86 seconds
+
+Setup done
+10:01:52.381 -> 
+10:01:52.381 -> scan start
+10:01:54.584 -> scan done
+10:01:54.584 -> 2 network(s) found
+10:01:54.584 -> Vodafone
+10:01:54.584 -> 
+10:01:54.584 -> Connecting to Vodafone
+10:01:55.149 -> ...........
+10:02:00.772 -> WiFi connected, your IP address is 
+10:02:00.772 -> 192.168.1.197
+10:02:05.739 -> 
+10:02:05.739 -> waiting for the failover event
+10:02:10.775 -> waiting for the failover event
+10:02:15.744 -> waiting for the failover event
+10:02:20.772 -> waiting for the failover event
+10:02:25.789 -> waiting for the failover event
+10:02:30.778 -> waiting for the failover event
+10:02:35.767 -> waiting for the failover event
+10:02:40.752 -> waiting for the failover event
+10:02:45.775 -> waiting for the failover event
+10:02:50.777 -> waiting for the failover event
+10:02:55.761 -> waiting for the failover event
+10:03:00.768 -> waiting for the failover event
+10:03:05.775 -> waiting for the failover event
+10:03:10.780 -> waiting for the failover event
+10:03:15.765 -> waiting for the failover event
+10:03:20.761 -> waiting for the failover event
+10:03:25.767 -> waiting for the failover event
+10:03:30.746 -> waiting for the failover event
+10:03:35.747 -> waiting for the failover event
+10:03:40.772 -> waiting for the failover event
+10:03:45.775 -> waiting for the failover event
+10:03:50.763 -> waiting for the failover event
+10:03:55.760 -> waiting for the failover event
+10:04:00.753 -> waiting for the failover event
+10:04:00.753 -> scan start
+10:04:02.949 -> scan done
+10:04:02.949 -> 1 network(s) found
+10:04:02.949 -> Airtel-Hotspot-07E0
+10:04:02.949 -> 	Not matching Vodafone
+10:04:02.949 -> 
+10:04:02.949 -> Connecting to Airtel-Hotspot-07E0
+10:04:03.502 -> ..........
+10:04:08.616 -> WiFi connected, your IP address is 
+10:04:08.616 -> 192.168.1.103
+10:04:13.605 -> 
+10:04:13.605 -> waiting for the failover event
+10:04:18.641 -> waiting for the failover event
+10:04:23.627 -> waiting for the failover event
+10:04:28.649 -> waiting for the failover event
+
+
+Iteration 3: [Start time:10:10:22.827 End time:10:10:30.701]
+      
+7.87  seconds
+
+Setup done
+10:09:39.442 -> 
+10:09:39.442 -> scan start
+10:09:41.622 -> scan done
+10:09:41.622 -> 2 network(s) found
+10:09:41.622 -> Vodafone
+10:09:41.660 -> 
+10:09:41.660 -> Connecting to Vodafone
+10:09:42.184 -> ...........
+10:09:47.838 -> WiFi connected, your IP address is 
+10:09:47.838 -> 192.168.1.197
+10:09:52.837 -> 
+10:09:52.837 -> waiting for the failover event
+10:09:57.830 -> waiting for the failover event
+10:10:02.807 -> waiting for the failover event
+10:10:07.827 -> waiting for the failover event
+10:10:12.825 -> waiting for the failover event
+10:10:17.816 -> waiting for the failover event
+10:10:22.827 -> waiting for the failover event
+10:10:22.827 -> scan start
+10:10:24.986 -> scan done
+10:10:24.986 -> 1 network(s) found
+10:10:24.986 -> Airtel-Hotspot-07E0
+10:10:25.025 -> 	Not matching Vodafone
+10:10:25.025 -> 
+10:10:25.025 -> Connecting to Airtel-Hotspot-07E0
+10:10:25.554 -> ..........
+10:10:30.701 -> WiFi connected, your IP address is 
+10:10:30.701 -> 192.168.1.103
+10:10:35.708 -> 
